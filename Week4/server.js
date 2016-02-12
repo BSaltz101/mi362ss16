@@ -2,7 +2,10 @@ const http = require('http')
 	
 http.createServer ( (request, response) => {
 	response.writeHead(200, {'Content-type': 'text/html'});
-	response.end('This is a node app!\n');
+	response.end(
+		<h1>Hello World</h1><br/>
+		<p>This is a node app</p>
+	);
 	
 })
 	
