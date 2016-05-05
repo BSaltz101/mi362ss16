@@ -1,0 +1,73 @@
+html{
+	background-image: url('nomansskyWall.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-position: top;
+	background-color: black;
+}
+body{
+	background-color: #cccccc;
+	padding: 30px;
+	height: auto;
+	width: 810px;
+	margin: 1.5em auto;
+}
+#navigation{
+	background-color: #666666;
+	text-align: center;
+	list-style-type: none;
+	float: right;
+	padding: 10px 50px;
+	
+}
+
+#navigation li {
+	border-style: solid;
+    border-width: 2px; 
+	border-color: #ffffff;
+	text-align: center;
+	font-size: 24px;
+	display:inline;
+	margin: 0px 30px;
+	
+}
+
+#navigation a {
+	text-decoration: none;
+	color: #FFF;
+	background-color: #666666;
+	width: 100px;
+	padding: 5px 5px;
+}
+
+#navigation a:hover {
+	background-color: #cccccc;
+}
+
+#contentWrapper {
+	width: auto;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.pict {
+	display: block;
+	width: 350px;
+	height: 200px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+#slide {
+	float: right;
+}
+h1 {
+	text-align: Center;
+}
+i {
+	padding-left: 10px;
+	padding-right: 10px;
+}

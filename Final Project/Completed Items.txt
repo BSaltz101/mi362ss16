@@ -1,0 +1,14 @@
+Completed Items:
+100 - Hosted on Heroku
+100 - Custom Domain Name
+100 - Instructor/discretionary
+300 - 4 Complete HTML pages with content
+200 - Custom CSS for design (all pages)
+50 - Use at least two custom images
+	-I have one picture of myself and a digital picture I made in photoshop on my About page.
+50 - Integrate a JavaScript component
+	-I have a star rating system included onto the Game Info page
+50 - Integrate non-Heroku 3rd party widget
+	-I included two face book widgets into my site, one that updates feeds from the No Man's Sky page on Facebook, the other that allows people to like the No Man's Sky page on Facebook as well as displays their cover art.
+50 - Use a 3rd party font icon like FontAwesome
+	-I included a game controller icon to indent paragraphs and bring focus to new headers.
